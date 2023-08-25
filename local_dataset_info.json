@@ -1,0 +1,152 @@
+{
+  "MOVLENS": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/MOVLENS/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "MOVLENSbiased_0_7": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/MOVLENSbiased_0_7/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "MOVLENSbiased_0_8": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/MOVLENSbiased_0_8/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "MOVLENSbiased_0_9": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/MOVLENSbiased_0_9/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDA": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDA/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_5": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_5/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_6": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_6/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_7": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_7/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_8": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_8/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_9": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_9/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "pcaHMDAbiased_0_85": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/pcaHMDAbiased_0_85/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 51,
+    "num_unique_feat": 51,
+    "query_normalized": true
+  },
+  "German": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/German/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 29,
+    "num_unique_feat": 29,
+    "query_normalized": false
+  },
+  "Germanbiased_0_6": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/Germanbiased_0_6/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 29,
+    "num_unique_feat": 29,
+    "query_normalized": false
+  },
+  "Germanbiased_0_7": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/Germanbiased_0_7/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 29,
+    "num_unique_feat": 29,
+    "query_normalized": false
+  },
+  "Germanbiased_0_9": {
+    "num_folds": 1,
+    "fold_paths": [
+      "path to data/Germanbiased_0_9/"
+    ],
+    "num_relevance_labels": 2,
+    "num_nonzero_feat": 29,
+    "num_unique_feat": 29,
+    "query_normalized": false
+  }
+}

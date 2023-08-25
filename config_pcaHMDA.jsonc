@@ -1,0 +1,15 @@
+{
+    "fold_id": 1, // [int] Fold number to select, modulo operator is applied to stay in range.
+    "dataset": "pcaHMDA", // [str] Name of dataset.
+    "dataset_info_path": "local_dataset_info.json", // [str] Path to dataset info file.
+    "cutoff": 15, // [int] Maximum number of items that can be displayed.
+    "num_samples": 100, // [str] Number of samples for gradient estimation ('dynamic' applies the dynamic strategy).
+    "num_eval_samples": 50, // [int] Number of samples for metric calculation in evaluation.
+    "fairness_requirement": "Proportional", // [str] Type of fairness requirement (Equal/Proportional).
+    "delta": 0.06, // [float] Allowed error in fairness requirement (0,1/2).
+    "learning_rate": 0.001, // [float] The Learning Rate.
+    "n_epochs": 500, // [int] Number of epochs
+    "maximum_train_time": 200000, // [int] maximum training time
+    "batch_size": 512, // [int] number of queries per batch
+    "verbose": false // Prints out the arguments
+}

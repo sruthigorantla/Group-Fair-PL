@@ -1,0 +1,10 @@
+matlab
+matplotlib
+numpy
+pandas
+tqdm
+json5
+scikit_learn
+scipy
+sentence_transformers
+tensorflow
